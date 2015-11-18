@@ -1,7 +1,7 @@
 name: vetrr
 favicon: null
-layout_spectrum: 0.5989827425219119
-typography_spectrum: 0.7664273038972169
+layout_spectrum: 1
+typography_spectrum: 0.06926
 cta:
   domain: null
   bucket: null
