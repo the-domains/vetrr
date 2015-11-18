@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[vetrr]]></title>
+        <description><![CDATA[vetrr]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 Nov 2015 19:44:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Veterans R&R</p>]]></description>
+            <link>undefined7455887d-35cf-477f-a567-b58e06b8b733/index.html</link>
+            <guid isPermaLink="false">7455887d-35cf-477f-a567-b58e06b8b733</guid>
+            <pubDate>Wed, 18 Nov 2015 19:44:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
