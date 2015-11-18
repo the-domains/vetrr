@@ -2,6 +2,7 @@ name: vetrr
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.06926
+title: 'Veterans R&R'
 cta:
   domain: null
   bucket: null
