@@ -1,0 +1,23 @@
+name: vetrr
+favicon: null
+layout_spectrum: 0.5989827425219119
+typography_spectrum: 0.7664273038972169
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.042086555855348706
+  lightness: 0.37341330922208726
+  saturation: 0.06938887177966535
+  rhythmicContrast: 0.010030248668044806
+purpose: []
